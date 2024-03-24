@@ -1,2 +1,7 @@
-# amended-portfolio
-My Roblox portfolio! I will add videos and scripts here. :D
+Hey! This is my Roblox scripting portfolio!
+I will add my projets here. :D
+
+Discord: @amendead
+Roblox: @amendeaad
+
+Nice to meet you.
