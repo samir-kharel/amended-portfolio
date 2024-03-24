@@ -1,7 +1,7 @@
 Hey! This is my Roblox scripting portfolio!
 I will add my projects here. :D
 <be> <br>
-How to see my portfolio: <br>
+How to see my portfolio: <br><br>
 1. click the file name. (ex. lag-test.mp4) <br>
 2. if its a video, click the play button, if its not, click "view raw"
 
